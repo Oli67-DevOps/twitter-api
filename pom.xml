@@ -90,7 +90,7 @@
 					</from>
 					<to>
 						<image>
-							registry.hub.docker.com/r/oli67/devops-repo
+							registry.hub.docker.com/oli67/devops-repo
 						</image>
 					</to>
 					<container>
